@@ -1,10 +1,14 @@
+cloudinary
 facexlib
+fastapi==0.67.0
 lmdb
 numpy
 opencv-python
 pyyaml
-tb-nightly
-torch>=1.7
-torchvision
+pytest
+python-multipart
+#tb-nightly
+#torch>=1.7
+#torchvision
 tqdm
 yapf
